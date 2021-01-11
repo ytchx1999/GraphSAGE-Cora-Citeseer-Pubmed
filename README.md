@@ -3,6 +3,7 @@
 
 + 语言：PyTorch
 + 参考代码：[https://github.com/FighterLYL/GraphNeuralNetwork/tree/master/chapter7](https://github.com/FighterLYL/GraphNeuralNetwork/tree/master/chapter7)
++ 博客：[GraphSAGE模型实验记录【Cora、Citeseer、Pubmed】](https://blog.csdn.net/weixin_41650348/article/details/112461238)
 
 ### 文件说明
 
